@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 cards:
-  message: "Welcome to EazyBank cards related local-GIT-GIT APIs "
+  message: "Welcome to EazyBank cards related local-GIT-GIT01 APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
