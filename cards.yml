@@ -1,8 +1,8 @@
 build:
-  version: "3.3"
+  version: "3.4"
 
 cards:
-  message: "Welcome to EazyBank cards related local-GIT-GIT01 APIs "
+  message: "Welcome to EazyBank cards related gitgfraska APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
