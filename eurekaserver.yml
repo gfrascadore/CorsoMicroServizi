@@ -2,8 +2,6 @@ server:
   port: 8070
 
 eureka:
- server:
-  renewal-percent-threshold: 0.1
   instance:
     hostname: localhost
   client:
@@ -11,6 +9,3 @@ eureka:
     registerWithEureka: false
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-
-    
-    
